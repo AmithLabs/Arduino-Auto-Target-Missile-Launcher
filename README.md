@@ -1,9 +1,9 @@
 # Arduino Auto Target Missile Launcher
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/3qiN1pMbKuA/0.jpg)](https://youtu.be/3qiN1pMbKuA)
 
 📺 **Watch the Full Build Video on YouTube**
-https://youtu.be/YOUR_VIDEO_ID
+https://youtu.be/3qiN1pMbKuA
 
 ---
 
