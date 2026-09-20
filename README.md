@@ -90,6 +90,9 @@ This code controls:
 ```
 Missile Launcher.jpg
 ```
+## Wiring Diagram
+
+![Wiring Diagram](Schematic Diagram - Missile Launcher .jpg)
 
 ---
 
