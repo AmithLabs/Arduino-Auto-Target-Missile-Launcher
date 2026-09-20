@@ -92,7 +92,7 @@ Missile Launcher.jpg
 ```
 ## Wiring Diagram
 
-![Wiring Diagram](Schematic Diagram - Missile Launcher .jpg)
+![Wiring Diagram](Schematic_Diagram.jpg)
 
 ---
 
